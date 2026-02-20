@@ -66,6 +66,10 @@ Each imported post stores two custom meta fields:
 
 See [CHANGELOG.md](CHANGELOG.md)
 
+## Author
+
+[Lou Griffith](https://lougriffith.com)
+
 ## License
 
 GPL v2 — see [LICENSE](LICENSE)

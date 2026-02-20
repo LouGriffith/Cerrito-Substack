@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1] - 2026-02-20
+
+### Added
+- GitHub auto-updater: WordPress now checks for new releases and shows the standard "update available" notice
+- Admin page now includes a direct link to the GitHub repo
+- Admin page includes step-by-step instructions for releasing updates from GitHub
+
+---
+
 ## [1.0] - 2026-02-20
 
 ### Added
